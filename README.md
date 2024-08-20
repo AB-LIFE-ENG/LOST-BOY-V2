@@ -3,13 +3,13 @@
 <p align="center">
 <img src="https://telegra.ph/file/cad7038fe82e47f79c609.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____VENOM+2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____LOST BOY+V2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+LOST+BOY;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
-### 1. <a href="https://github.com/DeeCeeXxx/Venom-2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
+### 1. <a href="https://github.com/AB-LIFE-ENG/LOST BOY V2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork LOST BOY V2" width="70"></a>
 ### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
 ### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 ### 4. <a href='https://replit.com/github/Deeceexxx/Venom-2' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
@@ -19,7 +19,7 @@
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [VENOM-2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [LOST BOY B2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -42,10 +42,10 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/Venom-2
+git clone https://github.com/type-your-username-here/LOST BOY V2
 ```
 ```
-cd Venom-2
+cd LOST BOY V2
 yarn install 
 npm start
 ```
@@ -90,7 +90,7 @@ pkg install yarn
 git clone (copy and paste your forked repo link not mine to save changes your changes) 
 ```
 ```
-cd Venom-2
+cd LOST BOY V2
 ```
 ```
 yarn install
@@ -116,10 +116,10 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/DeeCeeXxx/Venom-2.git
+> git clone https://github.com/AB-LIFE-ENG/LOST BOY V2.git
 ```
 ```
-> cd Venom-2
+> cd LOST BOY V2
 ```
 ```
 > yarn install
