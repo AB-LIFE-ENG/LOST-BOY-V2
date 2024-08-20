@@ -19,7 +19,7 @@
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [LOST BOY B2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [LOST BOY V2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
